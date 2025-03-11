@@ -69,6 +69,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Author:** Your Name\
-📧 Contact: [your-email@example.com](mailto\:your-email@example.com)
+**Author:** Muhammad Hashim\
+📧 Contact: [muhammadhashim10037@gmail.com](mailto\:your-email@example.com)
 
