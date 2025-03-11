@@ -57,7 +57,7 @@ weather-app/
 
 ## Demo
 
-You can check out the live demo here: **[Demo Link](https://your-live-demo-link.com)**
+You can check out the live demo here: **[Demo Link](https://muhammadhashim2.github.io/Weather-App/)**
 
 ## Contributions
 
